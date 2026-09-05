@@ -32,13 +32,13 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [Smart Bill Splitter](https://github.com/your-username/smart-bill-splitter](https://github.com/Adityakhot13/Smart-Bill-Splitter))
+#### 🔹 [Smart Bill Splitter](https://github.com/Adityakhot13/Smart-Bill-Splitter)
 Group expense-tracking and settlement app built with **Java, Spring Boot, Spring Data JPA, Hibernate, MySQL**. Supports equal, exact, and percentage-based splitting, with a **debt-simplification engine** that minimizes the number of transactions needed to settle group balances.
 
-#### 🔹 [Personal Expense Tracker]([https://github.com/your-username/personal-expense-tracker)](https://github.com/Adityakhot13/Expense-Tracker-App))
+#### 🔹 [Personal Expense Tracker](https://github.com/Adityakhot13/Expense-Tracker-App)
 Personal finance management app with user login, expense categorization, and CRUD operations. Uses **JPQL and Spring Data JPA** for financial reporting — monthly expenses, category-wise spending, and top-3 expense insights.
 
-#### 🔹 [Travel Recommendation System]([https://github.com/your-username/travel-recommendation-system)](https://github.com/Adityakhot13/Travle-recomendation)
+#### 🔹 [Travel Recommendation System](https://github.com/Adityakhot13/Travle-recomendation)
 Machine learning-based travel recommendation system using **KNN** on Google Colab, helping users discover destinations that match their preferences.
 
 ---
