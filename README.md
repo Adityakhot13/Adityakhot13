@@ -55,10 +55,8 @@ Machine learning-based travel recommendation system using **KNN** on Google Cola
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/adityakhot13
-<img width="748" height="25" alt="image" src="https://github.com/user-attachments/assets/cb3bd1e2-88c2-45a9-8702-26bb5b9dff87" />
-)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityakhot1312@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakhot13)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityakhot1312.com)
 
 ---
 
